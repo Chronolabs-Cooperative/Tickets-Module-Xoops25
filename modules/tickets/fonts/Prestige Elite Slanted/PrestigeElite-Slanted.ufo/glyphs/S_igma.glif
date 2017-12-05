@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="600"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="305" y="564" type="line"/>
+      <point x="430" y="317" type="line"/>
+      <point x="188" y="36" type="line"/>
+      <point x="454" y="36" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="154" y="0" type="line"/>
+      <point x="164" y="49" type="line"/>
+      <point x="392" y="317" type="line"/>
+      <point x="272" y="553" type="line"/>
+      <point x="282" y="600" type="line"/>
+      <point x="571" y="600" type="line"/>
+      <point x="563" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>564</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>154</integer>
+	    <key>width</key>
+	    <integer>417</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

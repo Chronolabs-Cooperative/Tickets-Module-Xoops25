@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Present</string>
+	<key>styleName</key>
+	<string>Medium</string>
+	<key>copyright</key>
+	<string>Copyright (c) 1989, 1990, 1991 Adobe Systems Incorporated.  All Rights Reserved.Present is a trademark of Linotype-Hell AG and/or its subsidiaries.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>326</integer>
+	<key>capHeight</key>
+	<integer>635</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/00/19 13:08:02</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 001.002</string>
+	<key>postscriptFontName</key>
+	<string>present</string>
+	<key>postscriptFullName</key>
+	<string>Present</string>
+	<key>postscriptWeightName</key>
+	<string>Medium</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-75</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-14</integer>
+		<integer>0</integer>
+		<integer>610</integer>
+		<integer>624</integer>
+		<integer>316</integer>
+		<integer>330</integer>
+		<integer>513</integer>
+		<integer>527</integer>
+		<integer>654</integer>
+		<integer>660</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>203</integer>
+		<integer>210</integer>
+		<integer>-286</integer>
+		<integer>-266</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>44</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>56</integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+    </dict>
+</plist>

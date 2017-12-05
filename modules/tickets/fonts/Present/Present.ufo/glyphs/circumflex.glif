@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="222"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="-20" y="389" type="curve"/>
+      <point x="-40" y="414" type="line"/>
+      <point x="12" y="449"/>
+      <point x="101" y="533"/>
+      <point x="109" y="542" type="curve" smooth="yes"/>
+      <point x="114" y="548"/>
+      <point x="118" y="551"/>
+      <point x="124" y="551" type="curve" smooth="yes"/>
+      <point x="130" y="551"/>
+      <point x="212" y="454"/>
+      <point x="253" y="420" type="curve"/>
+      <point x="216" y="385" type="line"/>
+      <point x="178" y="422"/>
+      <point x="142" y="462"/>
+      <point x="107" y="500" type="curve"/>
+      <point x="66" y="462"/>
+      <point x="23" y="425"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>385</integer>
+	    <key>width</key>	    <integer>166</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-40</integer>
+	    <key>width</key>
+	    <integer>293</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="600"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="280" y="371" type="line"/>
+      <point x="423" y="442" type="line"/>
+      <point x="414" y="400" type="line"/>
+      <point x="271" y="329" type="line"/>
+      <point x="209" y="36" type="line"/>
+      <point x="411" y="36" type="line" smooth="yes"/>
+      <point x="478" y="36"/>
+      <point x="511" y="74"/>
+      <point x="520" y="117" type="curve" smooth="yes"/>
+      <point x="537" y="196" type="line"/>
+      <point x="576" y="196" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="59" y="36" type="line"/>
+      <point x="170" y="36" type="line"/>
+      <point x="227" y="307" type="line"/>
+      <point x="89" y="238" type="line"/>
+      <point x="98" y="280" type="line"/>
+      <point x="236" y="349" type="line"/>
+      <point x="282" y="564" type="line"/>
+      <point x="171" y="564" type="line"/>
+      <point x="179" y="600" type="line"/>
+      <point x="444" y="600" type="line"/>
+      <point x="436" y="564" type="line"/>
+      <point x="321" y="564" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>564</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>51</integer>
+	    <key>width</key>
+	    <integer>525</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

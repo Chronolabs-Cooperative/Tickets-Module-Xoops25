@@ -1,0 +1,115 @@
+/** Prestige Elite */
+@font-face {
+	font-family:		'Prestige Elite';
+	src:				url('./PrestigeElite.t42') format('t42'),		/* Filesize: 81973 bytes, md5: 0627cb81037a967e896e527fa161f65d */
+						url('./PrestigeElite.cef') format('cef'),		/* Filesize: 54996 bytes, md5: 43229d90488be01c5a2e14005f9962d6 */
+						url('./PrestigeElite.svg') format('svg'),		/* Filesize: 90101 bytes, md5: 2ca653a3a4a2bcc29a86409c4a3e9264 */
+						url('./PrestigeElite.pcf') format('pcf'),		/* Filesize: 54996 bytes, md5: 3bc407527b8c64b60173be1a364a4529 */
+						url('./PrestigeElite.pfb') format('pfb'),		/* Filesize: 54996 bytes, md5: 4e6b15a62953bbc2e2922f02b54f53c9 */
+						url('./PrestigeElite.pfa') format('pfa'),		/* Filesize: 106420 bytes, md5: 379a3842ca658758671b22d988f314c7 */
+						url('./PrestigeElite.ttf') format('ttf'),		/* Filesize: 37420 bytes, md5: 5d5395a34c85a0c330774314c86f081e */
+						url('./PrestigeElite.sfd') format('sfd'),		/* Filesize: 54996 bytes, md5: bd2c2d6018f056a0fe9b68ea5e247ec6 */
+						url('./PrestigeElite.eot') format('eot'),		/* Filesize: 54996 bytes, md5: 852bdc4b9df36d84abceb0d7fd6e6436 */
+						url('./PrestigeElite.ik') format('ik'),		/* Filesize: 54996 bytes, md5: 3c92ed87f74b8263f109498484176ebc */
+						url('./PrestigeElite.gai') format('gai'),		/* Filesize: 54996 bytes, md5: 821c4b15bb10579863c70341e0b21356 */
+						url('./PrestigeElite.dfont') format('dfont'),		/* Filesize: 38441 bytes, md5: 9d75410db065654b1eebb6638d92e6bc */
+						url('./PrestigeElite.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite.bin') format('bin'),		/* Filesize: 56064 bytes, md5: dfb906e7292ed1f9f54fbd7cf398169e */
+						url('./PrestigeElite.mf') format('mf'),		/* Filesize: 54996 bytes, md5: a1a1d7a4d8710a6b447b9bf98fa8cfb0 */
+						url('./PrestigeElite.otf') format('otf'),		/* Filesize: 30308 bytes, md5: ab609376e1503d3cfde0fad9106b18d7 */
+						url('./PrestigeElite.hqx') format('hqx'),		/* Filesize: 54996 bytes, md5: ad01acada2eb0ed7d522b9b207c569ed */
+						url('./PrestigeElite.gsf') format('gsf'),		/* Filesize: 54996 bytes, md5: 082620f5233224b87bdb2cc01b57acd0 */
+						url('./PrestigeElite.pt3') format('pt3'),		/* Filesize: 186470 bytes, md5: e0129ef353440b71bb7d886c5c5c66b3 */
+						url('./PrestigeElite.cff') format('cff'),		/* Filesize: 27340 bytes, md5: 22eb89c667ca16a348e2eb5dd99e8d4e */
+						url('./PrestigeElite.pf3') format('pf3'),		/* Filesize: 54996 bytes, md5: 458f9ecf99165cc270cff474c063fa1a */
+						url('./PrestigeElite.pmf') format('pmf'),		/* Filesize: 54996 bytes, md5: 277a99b8dbfe2e9a2a8561c1f122f72f */
+						url('./PrestigeElite.woff') format('woff');		/* Filesize: 22064 bytes, md5: 5e6b62509e2057ffdd15bb7834cbfee3 */
+}
+
+/** Prestige Elite */
+@font-face {
+	font-family:		'prestige-elite';
+	src:				url('./PrestigeElite.t42') format('t42'),		/* Filesize: 81973 bytes, md5: 0627cb81037a967e896e527fa161f65d */
+						url('./PrestigeElite.cef') format('cef'),		/* Filesize: 54996 bytes, md5: 43229d90488be01c5a2e14005f9962d6 */
+						url('./PrestigeElite.svg') format('svg'),		/* Filesize: 90101 bytes, md5: 2ca653a3a4a2bcc29a86409c4a3e9264 */
+						url('./PrestigeElite.pcf') format('pcf'),		/* Filesize: 54996 bytes, md5: 3bc407527b8c64b60173be1a364a4529 */
+						url('./PrestigeElite.pfb') format('pfb'),		/* Filesize: 54996 bytes, md5: 4e6b15a62953bbc2e2922f02b54f53c9 */
+						url('./PrestigeElite.pfa') format('pfa'),		/* Filesize: 106420 bytes, md5: 379a3842ca658758671b22d988f314c7 */
+						url('./PrestigeElite.ttf') format('ttf'),		/* Filesize: 37420 bytes, md5: 5d5395a34c85a0c330774314c86f081e */
+						url('./PrestigeElite.sfd') format('sfd'),		/* Filesize: 54996 bytes, md5: bd2c2d6018f056a0fe9b68ea5e247ec6 */
+						url('./PrestigeElite.eot') format('eot'),		/* Filesize: 54996 bytes, md5: 852bdc4b9df36d84abceb0d7fd6e6436 */
+						url('./PrestigeElite.ik') format('ik'),		/* Filesize: 54996 bytes, md5: 3c92ed87f74b8263f109498484176ebc */
+						url('./PrestigeElite.gai') format('gai'),		/* Filesize: 54996 bytes, md5: 821c4b15bb10579863c70341e0b21356 */
+						url('./PrestigeElite.dfont') format('dfont'),		/* Filesize: 38441 bytes, md5: 9d75410db065654b1eebb6638d92e6bc */
+						url('./PrestigeElite.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite.bin') format('bin'),		/* Filesize: 56064 bytes, md5: dfb906e7292ed1f9f54fbd7cf398169e */
+						url('./PrestigeElite.mf') format('mf'),		/* Filesize: 54996 bytes, md5: a1a1d7a4d8710a6b447b9bf98fa8cfb0 */
+						url('./PrestigeElite.otf') format('otf'),		/* Filesize: 30308 bytes, md5: ab609376e1503d3cfde0fad9106b18d7 */
+						url('./PrestigeElite.hqx') format('hqx'),		/* Filesize: 54996 bytes, md5: ad01acada2eb0ed7d522b9b207c569ed */
+						url('./PrestigeElite.gsf') format('gsf'),		/* Filesize: 54996 bytes, md5: 082620f5233224b87bdb2cc01b57acd0 */
+						url('./PrestigeElite.pt3') format('pt3'),		/* Filesize: 186470 bytes, md5: e0129ef353440b71bb7d886c5c5c66b3 */
+						url('./PrestigeElite.cff') format('cff'),		/* Filesize: 27340 bytes, md5: 22eb89c667ca16a348e2eb5dd99e8d4e */
+						url('./PrestigeElite.pf3') format('pf3'),		/* Filesize: 54996 bytes, md5: 458f9ecf99165cc270cff474c063fa1a */
+						url('./PrestigeElite.pmf') format('pmf'),		/* Filesize: 54996 bytes, md5: 277a99b8dbfe2e9a2a8561c1f122f72f */
+						url('./PrestigeElite.woff') format('woff');		/* Filesize: 22064 bytes, md5: 5e6b62509e2057ffdd15bb7834cbfee3 */
+}
+
+/** Prestige Elite */
+@font-face {
+	font-family:		'KOuKOqA1K';
+	src:				url('./PrestigeElite.t42') format('t42'),		/* Filesize: 81973 bytes, md5: 0627cb81037a967e896e527fa161f65d */
+						url('./PrestigeElite.cef') format('cef'),		/* Filesize: 54996 bytes, md5: 43229d90488be01c5a2e14005f9962d6 */
+						url('./PrestigeElite.svg') format('svg'),		/* Filesize: 90101 bytes, md5: 2ca653a3a4a2bcc29a86409c4a3e9264 */
+						url('./PrestigeElite.pcf') format('pcf'),		/* Filesize: 54996 bytes, md5: 3bc407527b8c64b60173be1a364a4529 */
+						url('./PrestigeElite.pfb') format('pfb'),		/* Filesize: 54996 bytes, md5: 4e6b15a62953bbc2e2922f02b54f53c9 */
+						url('./PrestigeElite.pfa') format('pfa'),		/* Filesize: 106420 bytes, md5: 379a3842ca658758671b22d988f314c7 */
+						url('./PrestigeElite.ttf') format('ttf'),		/* Filesize: 37420 bytes, md5: 5d5395a34c85a0c330774314c86f081e */
+						url('./PrestigeElite.sfd') format('sfd'),		/* Filesize: 54996 bytes, md5: bd2c2d6018f056a0fe9b68ea5e247ec6 */
+						url('./PrestigeElite.eot') format('eot'),		/* Filesize: 54996 bytes, md5: 852bdc4b9df36d84abceb0d7fd6e6436 */
+						url('./PrestigeElite.ik') format('ik'),		/* Filesize: 54996 bytes, md5: 3c92ed87f74b8263f109498484176ebc */
+						url('./PrestigeElite.gai') format('gai'),		/* Filesize: 54996 bytes, md5: 821c4b15bb10579863c70341e0b21356 */
+						url('./PrestigeElite.dfont') format('dfont'),		/* Filesize: 38441 bytes, md5: 9d75410db065654b1eebb6638d92e6bc */
+						url('./PrestigeElite.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite.bin') format('bin'),		/* Filesize: 56064 bytes, md5: dfb906e7292ed1f9f54fbd7cf398169e */
+						url('./PrestigeElite.mf') format('mf'),		/* Filesize: 54996 bytes, md5: a1a1d7a4d8710a6b447b9bf98fa8cfb0 */
+						url('./PrestigeElite.otf') format('otf'),		/* Filesize: 30308 bytes, md5: ab609376e1503d3cfde0fad9106b18d7 */
+						url('./PrestigeElite.hqx') format('hqx'),		/* Filesize: 54996 bytes, md5: ad01acada2eb0ed7d522b9b207c569ed */
+						url('./PrestigeElite.gsf') format('gsf'),		/* Filesize: 54996 bytes, md5: 082620f5233224b87bdb2cc01b57acd0 */
+						url('./PrestigeElite.pt3') format('pt3'),		/* Filesize: 186470 bytes, md5: e0129ef353440b71bb7d886c5c5c66b3 */
+						url('./PrestigeElite.cff') format('cff'),		/* Filesize: 27340 bytes, md5: 22eb89c667ca16a348e2eb5dd99e8d4e */
+						url('./PrestigeElite.pf3') format('pf3'),		/* Filesize: 54996 bytes, md5: 458f9ecf99165cc270cff474c063fa1a */
+						url('./PrestigeElite.pmf') format('pmf'),		/* Filesize: 54996 bytes, md5: 277a99b8dbfe2e9a2a8561c1f122f72f */
+						url('./PrestigeElite.woff') format('woff');		/* Filesize: 22064 bytes, md5: 5e6b62509e2057ffdd15bb7834cbfee3 */
+}
+
+/** Prestige Elite */
+@font-face {
+	font-family:		'6GyGm-1O';
+	src:				url('./PrestigeElite.t42') format('t42'),		/* Filesize: 81973 bytes, md5: 0627cb81037a967e896e527fa161f65d */
+						url('./PrestigeElite.cef') format('cef'),		/* Filesize: 54996 bytes, md5: 43229d90488be01c5a2e14005f9962d6 */
+						url('./PrestigeElite.svg') format('svg'),		/* Filesize: 90101 bytes, md5: 2ca653a3a4a2bcc29a86409c4a3e9264 */
+						url('./PrestigeElite.pcf') format('pcf'),		/* Filesize: 54996 bytes, md5: 3bc407527b8c64b60173be1a364a4529 */
+						url('./PrestigeElite.pfb') format('pfb'),		/* Filesize: 54996 bytes, md5: 4e6b15a62953bbc2e2922f02b54f53c9 */
+						url('./PrestigeElite.pfa') format('pfa'),		/* Filesize: 106420 bytes, md5: 379a3842ca658758671b22d988f314c7 */
+						url('./PrestigeElite.ttf') format('ttf'),		/* Filesize: 37420 bytes, md5: 5d5395a34c85a0c330774314c86f081e */
+						url('./PrestigeElite.sfd') format('sfd'),		/* Filesize: 54996 bytes, md5: bd2c2d6018f056a0fe9b68ea5e247ec6 */
+						url('./PrestigeElite.eot') format('eot'),		/* Filesize: 54996 bytes, md5: 852bdc4b9df36d84abceb0d7fd6e6436 */
+						url('./PrestigeElite.ik') format('ik'),		/* Filesize: 54996 bytes, md5: 3c92ed87f74b8263f109498484176ebc */
+						url('./PrestigeElite.gai') format('gai'),		/* Filesize: 54996 bytes, md5: 821c4b15bb10579863c70341e0b21356 */
+						url('./PrestigeElite.dfont') format('dfont'),		/* Filesize: 38441 bytes, md5: 9d75410db065654b1eebb6638d92e6bc */
+						url('./PrestigeElite.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite.bin') format('bin'),		/* Filesize: 56064 bytes, md5: dfb906e7292ed1f9f54fbd7cf398169e */
+						url('./PrestigeElite.mf') format('mf'),		/* Filesize: 54996 bytes, md5: a1a1d7a4d8710a6b447b9bf98fa8cfb0 */
+						url('./PrestigeElite.otf') format('otf'),		/* Filesize: 30308 bytes, md5: ab609376e1503d3cfde0fad9106b18d7 */
+						url('./PrestigeElite.hqx') format('hqx'),		/* Filesize: 54996 bytes, md5: ad01acada2eb0ed7d522b9b207c569ed */
+						url('./PrestigeElite.gsf') format('gsf'),		/* Filesize: 54996 bytes, md5: 082620f5233224b87bdb2cc01b57acd0 */
+						url('./PrestigeElite.pt3') format('pt3'),		/* Filesize: 186470 bytes, md5: e0129ef353440b71bb7d886c5c5c66b3 */
+						url('./PrestigeElite.cff') format('cff'),		/* Filesize: 27340 bytes, md5: 22eb89c667ca16a348e2eb5dd99e8d4e */
+						url('./PrestigeElite.pf3') format('pf3'),		/* Filesize: 54996 bytes, md5: 458f9ecf99165cc270cff474c063fa1a */
+						url('./PrestigeElite.pmf') format('pmf'),		/* Filesize: 54996 bytes, md5: 277a99b8dbfe2e9a2a8561c1f122f72f */
+						url('./PrestigeElite.woff') format('woff');		/* Filesize: 22064 bytes, md5: 5e6b62509e2057ffdd15bb7834cbfee3 */
+}

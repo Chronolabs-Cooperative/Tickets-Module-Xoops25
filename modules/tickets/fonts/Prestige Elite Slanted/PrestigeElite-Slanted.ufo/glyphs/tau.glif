@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="600"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="553" y="420" type="line"/>
+      <point x="546" y="384" type="line"/>
+      <point x="401" y="384" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="280" y="0" type="line"/>
+      <point x="362" y="384" type="line"/>
+      <point x="334" y="384" type="line" smooth="yes"/>
+      <point x="295" y="384"/>
+      <point x="254" y="388"/>
+      <point x="215" y="376" type="curve"/>
+      <point x="222" y="408" type="line"/>
+      <point x="240" y="414" type="line" smooth="yes"/>
+      <point x="266" y="422"/>
+      <point x="286" y="420"/>
+      <point x="311" y="420" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>384</integer>
+	    <key>width</key>	    <integer>36</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>215</integer>
+	    <key>width</key>
+	    <integer>338</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

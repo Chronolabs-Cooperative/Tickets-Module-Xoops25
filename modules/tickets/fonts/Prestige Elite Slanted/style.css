@@ -1,0 +1,115 @@
+/** Prestige Elite Slanted */
+@font-face {
+	font-family:		'Prestige Elite Slanted';
+	src:				url('./PrestigeElite-Slanted.pf3') format('pf3'),		/* Filesize: 54575 bytes, md5: 98fac2c99545a40e0815bc3432c0150f */
+						url('./PrestigeElite-Slanted.mf') format('mf'),		/* Filesize: 54575 bytes, md5: d17c246b352e6348065b36927c6c6ba3 */
+						url('./PrestigeElite-Slanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-Slanted.hqx') format('hqx'),		/* Filesize: 54575 bytes, md5: 4c2a4796ec95eb9570e451dd9436225d */
+						url('./PrestigeElite-Slanted.pcf') format('pcf'),		/* Filesize: 54575 bytes, md5: fd7d4fab23b1b330e27c3a9e3f45c0b8 */
+						url('./PrestigeElite-Slanted.pfa') format('pfa'),		/* Filesize: 105534 bytes, md5: c14f1a9148fece63be87b73da4977625 */
+						url('./PrestigeElite-Slanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-Slanted.pmf') format('pmf'),		/* Filesize: 54575 bytes, md5: 97b2ca4c6848aa621d04b851ecff4152 */
+						url('./PrestigeElite-Slanted.bin') format('bin'),		/* Filesize: 55552 bytes, md5: 2de8fd740fd7a067e753cfc0b5973b3c */
+						url('./PrestigeElite-Slanted.dfont') format('dfont'),		/* Filesize: 40872 bytes, md5: 78e573b65b7d42dce66f4802fdf0fd65 */
+						url('./PrestigeElite-Slanted.woff') format('woff'),		/* Filesize: 22844 bytes, md5: 28c5c8e0ed8e7ce959b2c1d22fd82ffe */
+						url('./PrestigeElite-Slanted.pfb') format('pfb'),		/* Filesize: 54575 bytes, md5: 2925862f27b76ab0c59e2c7556d9b4be */
+						url('./PrestigeElite-Slanted.gsf') format('gsf'),		/* Filesize: 54575 bytes, md5: c4a3659e3997e543404dca028df0f548 */
+						url('./PrestigeElite-Slanted.ik') format('ik'),		/* Filesize: 54575 bytes, md5: c68ea317dd30b1496b5c9e652c2dafe2 */
+						url('./PrestigeElite-Slanted.otf') format('otf'),		/* Filesize: 31968 bytes, md5: f956651a431e80bcff5217d04383a52c */
+						url('./PrestigeElite-Slanted.cff') format('cff'),		/* Filesize: 28957 bytes, md5: d2e31e3a2330468acac27c7e9a0b2694 */
+						url('./PrestigeElite-Slanted.sfd') format('sfd'),		/* Filesize: 54575 bytes, md5: 1c9ea79b20974bfedadf7bd2e843ce6f */
+						url('./PrestigeElite-Slanted.t42') format('t42'),		/* Filesize: 86937 bytes, md5: f2385f6bbef1ba52ca5aae1b7b236555 */
+						url('./PrestigeElite-Slanted.ttf') format('ttf'),		/* Filesize: 39844 bytes, md5: 363c55ee8a893053f627bf2fd4234dff */
+						url('./PrestigeElite-Slanted.svg') format('svg'),		/* Filesize: 94113 bytes, md5: f2e3ffa0e7940f42b45a3a71a5f909fe */
+						url('./PrestigeElite-Slanted.cef') format('cef'),		/* Filesize: 54575 bytes, md5: e15f4a37419ebfc5cddae92ebb60ab8f */
+						url('./PrestigeElite-Slanted.pt3') format('pt3'),		/* Filesize: 187098 bytes, md5: 490aa25f781f34bec3c56491f6c86207 */
+						url('./PrestigeElite-Slanted.eot') format('eot'),		/* Filesize: 54575 bytes, md5: 3c177a39ce33cf565dd39dbbaf7691ed */
+						url('./PrestigeElite-Slanted.gai') format('gai');		/* Filesize: 54575 bytes, md5: 466800769246b09648bb6e7425d493f5 */
+}
+
+/** Prestige Elite Slanted */
+@font-face {
+	font-family:		'prestige-elite-slanted';
+	src:				url('./PrestigeElite-Slanted.pf3') format('pf3'),		/* Filesize: 54575 bytes, md5: 98fac2c99545a40e0815bc3432c0150f */
+						url('./PrestigeElite-Slanted.mf') format('mf'),		/* Filesize: 54575 bytes, md5: d17c246b352e6348065b36927c6c6ba3 */
+						url('./PrestigeElite-Slanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-Slanted.hqx') format('hqx'),		/* Filesize: 54575 bytes, md5: 4c2a4796ec95eb9570e451dd9436225d */
+						url('./PrestigeElite-Slanted.pcf') format('pcf'),		/* Filesize: 54575 bytes, md5: fd7d4fab23b1b330e27c3a9e3f45c0b8 */
+						url('./PrestigeElite-Slanted.pfa') format('pfa'),		/* Filesize: 105534 bytes, md5: c14f1a9148fece63be87b73da4977625 */
+						url('./PrestigeElite-Slanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-Slanted.pmf') format('pmf'),		/* Filesize: 54575 bytes, md5: 97b2ca4c6848aa621d04b851ecff4152 */
+						url('./PrestigeElite-Slanted.bin') format('bin'),		/* Filesize: 55552 bytes, md5: 2de8fd740fd7a067e753cfc0b5973b3c */
+						url('./PrestigeElite-Slanted.dfont') format('dfont'),		/* Filesize: 40872 bytes, md5: 78e573b65b7d42dce66f4802fdf0fd65 */
+						url('./PrestigeElite-Slanted.woff') format('woff'),		/* Filesize: 22844 bytes, md5: 28c5c8e0ed8e7ce959b2c1d22fd82ffe */
+						url('./PrestigeElite-Slanted.pfb') format('pfb'),		/* Filesize: 54575 bytes, md5: 2925862f27b76ab0c59e2c7556d9b4be */
+						url('./PrestigeElite-Slanted.gsf') format('gsf'),		/* Filesize: 54575 bytes, md5: c4a3659e3997e543404dca028df0f548 */
+						url('./PrestigeElite-Slanted.ik') format('ik'),		/* Filesize: 54575 bytes, md5: c68ea317dd30b1496b5c9e652c2dafe2 */
+						url('./PrestigeElite-Slanted.otf') format('otf'),		/* Filesize: 31968 bytes, md5: f956651a431e80bcff5217d04383a52c */
+						url('./PrestigeElite-Slanted.cff') format('cff'),		/* Filesize: 28957 bytes, md5: d2e31e3a2330468acac27c7e9a0b2694 */
+						url('./PrestigeElite-Slanted.sfd') format('sfd'),		/* Filesize: 54575 bytes, md5: 1c9ea79b20974bfedadf7bd2e843ce6f */
+						url('./PrestigeElite-Slanted.t42') format('t42'),		/* Filesize: 86937 bytes, md5: f2385f6bbef1ba52ca5aae1b7b236555 */
+						url('./PrestigeElite-Slanted.ttf') format('ttf'),		/* Filesize: 39844 bytes, md5: 363c55ee8a893053f627bf2fd4234dff */
+						url('./PrestigeElite-Slanted.svg') format('svg'),		/* Filesize: 94113 bytes, md5: f2e3ffa0e7940f42b45a3a71a5f909fe */
+						url('./PrestigeElite-Slanted.cef') format('cef'),		/* Filesize: 54575 bytes, md5: e15f4a37419ebfc5cddae92ebb60ab8f */
+						url('./PrestigeElite-Slanted.pt3') format('pt3'),		/* Filesize: 187098 bytes, md5: 490aa25f781f34bec3c56491f6c86207 */
+						url('./PrestigeElite-Slanted.eot') format('eot'),		/* Filesize: 54575 bytes, md5: 3c177a39ce33cf565dd39dbbaf7691ed */
+						url('./PrestigeElite-Slanted.gai') format('gai');		/* Filesize: 54575 bytes, md5: 466800769246b09648bb6e7425d493f5 */
+}
+
+/** Prestige Elite Slanted */
+@font-face {
+	font-family:		'287ySeC4G5y1';
+	src:				url('./PrestigeElite-Slanted.pf3') format('pf3'),		/* Filesize: 54575 bytes, md5: 98fac2c99545a40e0815bc3432c0150f */
+						url('./PrestigeElite-Slanted.mf') format('mf'),		/* Filesize: 54575 bytes, md5: d17c246b352e6348065b36927c6c6ba3 */
+						url('./PrestigeElite-Slanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-Slanted.hqx') format('hqx'),		/* Filesize: 54575 bytes, md5: 4c2a4796ec95eb9570e451dd9436225d */
+						url('./PrestigeElite-Slanted.pcf') format('pcf'),		/* Filesize: 54575 bytes, md5: fd7d4fab23b1b330e27c3a9e3f45c0b8 */
+						url('./PrestigeElite-Slanted.pfa') format('pfa'),		/* Filesize: 105534 bytes, md5: c14f1a9148fece63be87b73da4977625 */
+						url('./PrestigeElite-Slanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-Slanted.pmf') format('pmf'),		/* Filesize: 54575 bytes, md5: 97b2ca4c6848aa621d04b851ecff4152 */
+						url('./PrestigeElite-Slanted.bin') format('bin'),		/* Filesize: 55552 bytes, md5: 2de8fd740fd7a067e753cfc0b5973b3c */
+						url('./PrestigeElite-Slanted.dfont') format('dfont'),		/* Filesize: 40872 bytes, md5: 78e573b65b7d42dce66f4802fdf0fd65 */
+						url('./PrestigeElite-Slanted.woff') format('woff'),		/* Filesize: 22844 bytes, md5: 28c5c8e0ed8e7ce959b2c1d22fd82ffe */
+						url('./PrestigeElite-Slanted.pfb') format('pfb'),		/* Filesize: 54575 bytes, md5: 2925862f27b76ab0c59e2c7556d9b4be */
+						url('./PrestigeElite-Slanted.gsf') format('gsf'),		/* Filesize: 54575 bytes, md5: c4a3659e3997e543404dca028df0f548 */
+						url('./PrestigeElite-Slanted.ik') format('ik'),		/* Filesize: 54575 bytes, md5: c68ea317dd30b1496b5c9e652c2dafe2 */
+						url('./PrestigeElite-Slanted.otf') format('otf'),		/* Filesize: 31968 bytes, md5: f956651a431e80bcff5217d04383a52c */
+						url('./PrestigeElite-Slanted.cff') format('cff'),		/* Filesize: 28957 bytes, md5: d2e31e3a2330468acac27c7e9a0b2694 */
+						url('./PrestigeElite-Slanted.sfd') format('sfd'),		/* Filesize: 54575 bytes, md5: 1c9ea79b20974bfedadf7bd2e843ce6f */
+						url('./PrestigeElite-Slanted.t42') format('t42'),		/* Filesize: 86937 bytes, md5: f2385f6bbef1ba52ca5aae1b7b236555 */
+						url('./PrestigeElite-Slanted.ttf') format('ttf'),		/* Filesize: 39844 bytes, md5: 363c55ee8a893053f627bf2fd4234dff */
+						url('./PrestigeElite-Slanted.svg') format('svg'),		/* Filesize: 94113 bytes, md5: f2e3ffa0e7940f42b45a3a71a5f909fe */
+						url('./PrestigeElite-Slanted.cef') format('cef'),		/* Filesize: 54575 bytes, md5: e15f4a37419ebfc5cddae92ebb60ab8f */
+						url('./PrestigeElite-Slanted.pt3') format('pt3'),		/* Filesize: 187098 bytes, md5: 490aa25f781f34bec3c56491f6c86207 */
+						url('./PrestigeElite-Slanted.eot') format('eot'),		/* Filesize: 54575 bytes, md5: 3c177a39ce33cf565dd39dbbaf7691ed */
+						url('./PrestigeElite-Slanted.gai') format('gai');		/* Filesize: 54575 bytes, md5: 466800769246b09648bb6e7425d493f5 */
+}
+
+/** Prestige Elite Slanted */
+@font-face {
+	font-family:		'm32uau';
+	src:				url('./PrestigeElite-Slanted.pf3') format('pf3'),		/* Filesize: 54575 bytes, md5: 98fac2c99545a40e0815bc3432c0150f */
+						url('./PrestigeElite-Slanted.mf') format('mf'),		/* Filesize: 54575 bytes, md5: d17c246b352e6348065b36927c6c6ba3 */
+						url('./PrestigeElite-Slanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-Slanted.hqx') format('hqx'),		/* Filesize: 54575 bytes, md5: 4c2a4796ec95eb9570e451dd9436225d */
+						url('./PrestigeElite-Slanted.pcf') format('pcf'),		/* Filesize: 54575 bytes, md5: fd7d4fab23b1b330e27c3a9e3f45c0b8 */
+						url('./PrestigeElite-Slanted.pfa') format('pfa'),		/* Filesize: 105534 bytes, md5: c14f1a9148fece63be87b73da4977625 */
+						url('./PrestigeElite-Slanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-Slanted.pmf') format('pmf'),		/* Filesize: 54575 bytes, md5: 97b2ca4c6848aa621d04b851ecff4152 */
+						url('./PrestigeElite-Slanted.bin') format('bin'),		/* Filesize: 55552 bytes, md5: 2de8fd740fd7a067e753cfc0b5973b3c */
+						url('./PrestigeElite-Slanted.dfont') format('dfont'),		/* Filesize: 40872 bytes, md5: 78e573b65b7d42dce66f4802fdf0fd65 */
+						url('./PrestigeElite-Slanted.woff') format('woff'),		/* Filesize: 22844 bytes, md5: 28c5c8e0ed8e7ce959b2c1d22fd82ffe */
+						url('./PrestigeElite-Slanted.pfb') format('pfb'),		/* Filesize: 54575 bytes, md5: 2925862f27b76ab0c59e2c7556d9b4be */
+						url('./PrestigeElite-Slanted.gsf') format('gsf'),		/* Filesize: 54575 bytes, md5: c4a3659e3997e543404dca028df0f548 */
+						url('./PrestigeElite-Slanted.ik') format('ik'),		/* Filesize: 54575 bytes, md5: c68ea317dd30b1496b5c9e652c2dafe2 */
+						url('./PrestigeElite-Slanted.otf') format('otf'),		/* Filesize: 31968 bytes, md5: f956651a431e80bcff5217d04383a52c */
+						url('./PrestigeElite-Slanted.cff') format('cff'),		/* Filesize: 28957 bytes, md5: d2e31e3a2330468acac27c7e9a0b2694 */
+						url('./PrestigeElite-Slanted.sfd') format('sfd'),		/* Filesize: 54575 bytes, md5: 1c9ea79b20974bfedadf7bd2e843ce6f */
+						url('./PrestigeElite-Slanted.t42') format('t42'),		/* Filesize: 86937 bytes, md5: f2385f6bbef1ba52ca5aae1b7b236555 */
+						url('./PrestigeElite-Slanted.ttf') format('ttf'),		/* Filesize: 39844 bytes, md5: 363c55ee8a893053f627bf2fd4234dff */
+						url('./PrestigeElite-Slanted.svg') format('svg'),		/* Filesize: 94113 bytes, md5: f2e3ffa0e7940f42b45a3a71a5f909fe */
+						url('./PrestigeElite-Slanted.cef') format('cef'),		/* Filesize: 54575 bytes, md5: e15f4a37419ebfc5cddae92ebb60ab8f */
+						url('./PrestigeElite-Slanted.pt3') format('pt3'),		/* Filesize: 187098 bytes, md5: 490aa25f781f34bec3c56491f6c86207 */
+						url('./PrestigeElite-Slanted.eot') format('eot'),		/* Filesize: 54575 bytes, md5: 3c177a39ce33cf565dd39dbbaf7691ed */
+						url('./PrestigeElite-Slanted.gai') format('gai');		/* Filesize: 54575 bytes, md5: 466800769246b09648bb6e7425d493f5 */
+}

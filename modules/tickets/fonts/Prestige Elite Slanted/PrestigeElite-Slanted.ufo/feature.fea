@@ -1,0 +1,47 @@
+
+@GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
+	\quoteright \parenleft \parenright \asterisk \plus \comma \hyphen \period \slash 
+	\zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon \less 
+	\equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W 
+	\X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
+	\quoteleft \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft 
+	\bar \braceright \asciitilde \exclamdown \cent \sterling \fraction \yen \florin 
+	\section \currency \quotesingle \quotedblleft \guillemotleft \guilsinglleft 
+	\guilsinglright \fi \fl \endash \dagger \daggerdbl \periodcentered \paragraph 
+	\bullet \quotesinglbase \quotedblbase \quotedblright \guillemotright 
+	\ellipsis \perthousand \questiondown \grave \acute \circumflex \tilde \macron 
+	\breve \dotaccent \dieresis \ring \cedilla \hungarumlaut \ogonek \caron \emdash 
+	\AE \ordfeminine \Lslash \Oslash \OE \ordmasculine \ae \dotlessi \lslash \oslash 
+	\oe \germandbls \Aacute \Acircumflex \Adieresis \Agrave \Aring \Atilde \Ccedilla 
+	\Eacute \Ecircumflex \Edieresis \Egrave \Eng \Eth \Gamma \Hbar \IJ \Iacute 
+	\Icircumflex \Idieresis \Igrave \Ldot \Ntilde \Oacute \Ocircumflex \Odieresis 
+	\Ograve \Omega \Otilde \Phi \Pts \SA420000 \SD630000 \SF010000 \SF020000 
+	\SF030000 \SF040000 \SF050000 \SF060000 \SF070000 \SF080000 \SF090000 \SF100000 
+	\SF110000 \SF140000 \SF150000 \SF160000 \SF190000 \SF200000 \SF210000 \SF220000 
+	\SF230000 \SF240000 \SF250000 \SF260000 \SF270000 \SF280000 \SF360000 \SF370000 
+	\SF380000 \SF390000 \SF400000 \SF410000 \SF420000 \SF430000 \SF440000 \SF450000 
+	\SF460000 \SF470000 \SF480000 \SF490000 \SF500000 \SF510000 \SF520000 \SF530000 
+	\SF540000 \SF570000 \SF580000 \SF590000 \SF600000 \SF610000 \SM570001 \SM590000 
+	\SM600000 \SM630000 \SM680000 \SM690000 \SM700000 \SM750000 \SM750002 \SM760000 
+	\SM770000 \SM790000 \SP320000 \SS000000 \SS010000 \SS260000 \SS270000 \SV040000 
+	\Scaron \Sigma \Tbar \Theta \Thorn \Uacute \Ucircumflex \Udieresis \Ugrave 
+	\Yacute \Ydieresis \Zcaron \aacute \acircumflex \adieresis \agrave \alpha 
+	\apostrophereverse \approxequal \aring \arrowboth \arrowdown \arrowleft 
+	\arrowright \arrowup \atilde \brokenbar \caretinverted \ccedilla \club 
+	\copyright \dbar \degree \delta \deutschmark \diamond \diamondopen \divide 
+	\eacute \ecircumflex \edieresis \egrave \eng \epsilon \equivalence \eth 
+	\exclamdbl \female \filledbox \fiveeighths \franc \greaterequal \hbar \heart 
+	\iacute \icircumflex \idieresis \igrave \ij \infinity \intersection 
+	\kgreenlandic \ldot \lessequal \logicalnot \male \minus \monospacedash \mu 
+	\multiply \musicalnote \musicalnotedbl \napostrophe \nsuperior \ntilde \oacute 
+	\ocircumflex \odieresis \ograve \oneeighth \onehalf \onequarter \onesuperior 
+	\otilde \overscore \phi \pi \plusminus \radical \registered \scaron 
+	\seveneighths \sigma \spade \tau \tbar \thorn \threeeighths \threequarters 
+	\threesuperior \trademark \twosuperior \uacute \ucircumflex \udieresis \ugrave 
+	\underscoredbl \yacute \ydieresis \zcaron \zeroslash ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

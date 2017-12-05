@@ -1,0 +1,115 @@
+/** Present */
+@font-face {
+	font-family:		'Present';
+	src:				url('./Present.hqx') format('hqx'),		/* Filesize: 56254 bytes, md5: ce93020e4965a138e7119db32af81c03 */
+						url('./Present.dfont') format('dfont'),		/* Filesize: 36028 bytes, md5: 886b225b95448656bf034313e3191b3e */
+						url('./Present.svg') format('svg'),		/* Filesize: 92502 bytes, md5: 25d83481a033a317ac068ba6eec8a53f */
+						url('./Present.pfb') format('pfb'),		/* Filesize: 56254 bytes, md5: 1ee20fe6d6f3a72e6188fbae874a0a92 */
+						url('./Present.pf3') format('pf3'),		/* Filesize: 56254 bytes, md5: 7c6b8a418eabdfa7146011cb064d55c8 */
+						url('./Present.otf') format('otf'),		/* Filesize: 25512 bytes, md5: 56ccbb05b8a65d97f6df2f18927ec6b8 */
+						url('./Present.pfa') format('pfa'),		/* Filesize: 108762 bytes, md5: fd93e7e5ca0d856b3545387e4e67dae4 */
+						url('./Present.bin') format('bin'),		/* Filesize: 57216 bytes, md5: eac84a3baf5424b8dbc293fada29eddc */
+						url('./Present.pcf') format('pcf'),		/* Filesize: 56254 bytes, md5: 1e2ed4622981edd7df897a14aa9950d1 */
+						url('./Present.pmf') format('pmf'),		/* Filesize: 56254 bytes, md5: 7f1f97f480e7d262dfc1bf25e16d71d7 */
+						url('./Present.cff') format('cff'),		/* Filesize: 23198 bytes, md5: f161e7ab3424b6a8de9dd1589ba84b79 */
+						url('./Present.pt3') format('pt3'),		/* Filesize: 155879 bytes, md5: 12707f4860deac6f72b98e0516c84782 */
+						url('./Present.cef') format('cef'),		/* Filesize: 56254 bytes, md5: 30ff032833dce5b9d7e2b2367cb29cf0 */
+						url('./Present.gai') format('gai'),		/* Filesize: 56254 bytes, md5: aa938e3fec5334819d01b6536c47ba2e */
+						url('./Present.eot') format('eot'),		/* Filesize: 56254 bytes, md5: abe482e6424f51c6b3e11f9e84778aba */
+						url('./Present.ik') format('ik'),		/* Filesize: 56254 bytes, md5: 04aec2c0263e2c7df69e5dffb1636973 */
+						url('./Present.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./Present.woff') format('woff'),		/* Filesize: 19668 bytes, md5: f91518bc67b66aa5f5aa4ee84034da0f */
+						url('./Present.ttf') format('ttf'),		/* Filesize: 35020 bytes, md5: b0767d2e16864b9422cf9513642024d6 */
+						url('./Present.t42') format('t42'),		/* Filesize: 78909 bytes, md5: a04c3f9337d40e2df6ea2a4f40cda92f */
+						url('./Present.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./Present.gsf') format('gsf'),		/* Filesize: 56254 bytes, md5: 142a63cdc5cd25888d9a477d4c71be64 */
+						url('./Present.mf') format('mf'),		/* Filesize: 56254 bytes, md5: 6767d57b578a40364ec30ab29f89ffdc */
+						url('./Present.sfd') format('sfd');		/* Filesize: 56254 bytes, md5: af8c4be2430bb4532b178da06b0dbc89 */
+}
+
+/** Present */
+@font-face {
+	font-family:		'present';
+	src:				url('./Present.hqx') format('hqx'),		/* Filesize: 56254 bytes, md5: ce93020e4965a138e7119db32af81c03 */
+						url('./Present.dfont') format('dfont'),		/* Filesize: 36028 bytes, md5: 886b225b95448656bf034313e3191b3e */
+						url('./Present.svg') format('svg'),		/* Filesize: 92502 bytes, md5: 25d83481a033a317ac068ba6eec8a53f */
+						url('./Present.pfb') format('pfb'),		/* Filesize: 56254 bytes, md5: 1ee20fe6d6f3a72e6188fbae874a0a92 */
+						url('./Present.pf3') format('pf3'),		/* Filesize: 56254 bytes, md5: 7c6b8a418eabdfa7146011cb064d55c8 */
+						url('./Present.otf') format('otf'),		/* Filesize: 25512 bytes, md5: 56ccbb05b8a65d97f6df2f18927ec6b8 */
+						url('./Present.pfa') format('pfa'),		/* Filesize: 108762 bytes, md5: fd93e7e5ca0d856b3545387e4e67dae4 */
+						url('./Present.bin') format('bin'),		/* Filesize: 57216 bytes, md5: eac84a3baf5424b8dbc293fada29eddc */
+						url('./Present.pcf') format('pcf'),		/* Filesize: 56254 bytes, md5: 1e2ed4622981edd7df897a14aa9950d1 */
+						url('./Present.pmf') format('pmf'),		/* Filesize: 56254 bytes, md5: 7f1f97f480e7d262dfc1bf25e16d71d7 */
+						url('./Present.cff') format('cff'),		/* Filesize: 23198 bytes, md5: f161e7ab3424b6a8de9dd1589ba84b79 */
+						url('./Present.pt3') format('pt3'),		/* Filesize: 155879 bytes, md5: 12707f4860deac6f72b98e0516c84782 */
+						url('./Present.cef') format('cef'),		/* Filesize: 56254 bytes, md5: 30ff032833dce5b9d7e2b2367cb29cf0 */
+						url('./Present.gai') format('gai'),		/* Filesize: 56254 bytes, md5: aa938e3fec5334819d01b6536c47ba2e */
+						url('./Present.eot') format('eot'),		/* Filesize: 56254 bytes, md5: abe482e6424f51c6b3e11f9e84778aba */
+						url('./Present.ik') format('ik'),		/* Filesize: 56254 bytes, md5: 04aec2c0263e2c7df69e5dffb1636973 */
+						url('./Present.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./Present.woff') format('woff'),		/* Filesize: 19668 bytes, md5: f91518bc67b66aa5f5aa4ee84034da0f */
+						url('./Present.ttf') format('ttf'),		/* Filesize: 35020 bytes, md5: b0767d2e16864b9422cf9513642024d6 */
+						url('./Present.t42') format('t42'),		/* Filesize: 78909 bytes, md5: a04c3f9337d40e2df6ea2a4f40cda92f */
+						url('./Present.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./Present.gsf') format('gsf'),		/* Filesize: 56254 bytes, md5: 142a63cdc5cd25888d9a477d4c71be64 */
+						url('./Present.mf') format('mf'),		/* Filesize: 56254 bytes, md5: 6767d57b578a40364ec30ab29f89ffdc */
+						url('./Present.sfd') format('sfd');		/* Filesize: 56254 bytes, md5: af8c4be2430bb4532b178da06b0dbc89 */
+}
+
+/** Present */
+@font-face {
+	font-family:		'11saqgo7ei4go';
+	src:				url('./Present.hqx') format('hqx'),		/* Filesize: 56254 bytes, md5: ce93020e4965a138e7119db32af81c03 */
+						url('./Present.dfont') format('dfont'),		/* Filesize: 36028 bytes, md5: 886b225b95448656bf034313e3191b3e */
+						url('./Present.svg') format('svg'),		/* Filesize: 92502 bytes, md5: 25d83481a033a317ac068ba6eec8a53f */
+						url('./Present.pfb') format('pfb'),		/* Filesize: 56254 bytes, md5: 1ee20fe6d6f3a72e6188fbae874a0a92 */
+						url('./Present.pf3') format('pf3'),		/* Filesize: 56254 bytes, md5: 7c6b8a418eabdfa7146011cb064d55c8 */
+						url('./Present.otf') format('otf'),		/* Filesize: 25512 bytes, md5: 56ccbb05b8a65d97f6df2f18927ec6b8 */
+						url('./Present.pfa') format('pfa'),		/* Filesize: 108762 bytes, md5: fd93e7e5ca0d856b3545387e4e67dae4 */
+						url('./Present.bin') format('bin'),		/* Filesize: 57216 bytes, md5: eac84a3baf5424b8dbc293fada29eddc */
+						url('./Present.pcf') format('pcf'),		/* Filesize: 56254 bytes, md5: 1e2ed4622981edd7df897a14aa9950d1 */
+						url('./Present.pmf') format('pmf'),		/* Filesize: 56254 bytes, md5: 7f1f97f480e7d262dfc1bf25e16d71d7 */
+						url('./Present.cff') format('cff'),		/* Filesize: 23198 bytes, md5: f161e7ab3424b6a8de9dd1589ba84b79 */
+						url('./Present.pt3') format('pt3'),		/* Filesize: 155879 bytes, md5: 12707f4860deac6f72b98e0516c84782 */
+						url('./Present.cef') format('cef'),		/* Filesize: 56254 bytes, md5: 30ff032833dce5b9d7e2b2367cb29cf0 */
+						url('./Present.gai') format('gai'),		/* Filesize: 56254 bytes, md5: aa938e3fec5334819d01b6536c47ba2e */
+						url('./Present.eot') format('eot'),		/* Filesize: 56254 bytes, md5: abe482e6424f51c6b3e11f9e84778aba */
+						url('./Present.ik') format('ik'),		/* Filesize: 56254 bytes, md5: 04aec2c0263e2c7df69e5dffb1636973 */
+						url('./Present.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./Present.woff') format('woff'),		/* Filesize: 19668 bytes, md5: f91518bc67b66aa5f5aa4ee84034da0f */
+						url('./Present.ttf') format('ttf'),		/* Filesize: 35020 bytes, md5: b0767d2e16864b9422cf9513642024d6 */
+						url('./Present.t42') format('t42'),		/* Filesize: 78909 bytes, md5: a04c3f9337d40e2df6ea2a4f40cda92f */
+						url('./Present.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./Present.gsf') format('gsf'),		/* Filesize: 56254 bytes, md5: 142a63cdc5cd25888d9a477d4c71be64 */
+						url('./Present.mf') format('mf'),		/* Filesize: 56254 bytes, md5: 6767d57b578a40364ec30ab29f89ffdc */
+						url('./Present.sfd') format('sfd');		/* Filesize: 56254 bytes, md5: af8c4be2430bb4532b178da06b0dbc89 */
+}
+
+/** Present */
+@font-face {
+	font-family:		'qkaka';
+	src:				url('./Present.hqx') format('hqx'),		/* Filesize: 56254 bytes, md5: ce93020e4965a138e7119db32af81c03 */
+						url('./Present.dfont') format('dfont'),		/* Filesize: 36028 bytes, md5: 886b225b95448656bf034313e3191b3e */
+						url('./Present.svg') format('svg'),		/* Filesize: 92502 bytes, md5: 25d83481a033a317ac068ba6eec8a53f */
+						url('./Present.pfb') format('pfb'),		/* Filesize: 56254 bytes, md5: 1ee20fe6d6f3a72e6188fbae874a0a92 */
+						url('./Present.pf3') format('pf3'),		/* Filesize: 56254 bytes, md5: 7c6b8a418eabdfa7146011cb064d55c8 */
+						url('./Present.otf') format('otf'),		/* Filesize: 25512 bytes, md5: 56ccbb05b8a65d97f6df2f18927ec6b8 */
+						url('./Present.pfa') format('pfa'),		/* Filesize: 108762 bytes, md5: fd93e7e5ca0d856b3545387e4e67dae4 */
+						url('./Present.bin') format('bin'),		/* Filesize: 57216 bytes, md5: eac84a3baf5424b8dbc293fada29eddc */
+						url('./Present.pcf') format('pcf'),		/* Filesize: 56254 bytes, md5: 1e2ed4622981edd7df897a14aa9950d1 */
+						url('./Present.pmf') format('pmf'),		/* Filesize: 56254 bytes, md5: 7f1f97f480e7d262dfc1bf25e16d71d7 */
+						url('./Present.cff') format('cff'),		/* Filesize: 23198 bytes, md5: f161e7ab3424b6a8de9dd1589ba84b79 */
+						url('./Present.pt3') format('pt3'),		/* Filesize: 155879 bytes, md5: 12707f4860deac6f72b98e0516c84782 */
+						url('./Present.cef') format('cef'),		/* Filesize: 56254 bytes, md5: 30ff032833dce5b9d7e2b2367cb29cf0 */
+						url('./Present.gai') format('gai'),		/* Filesize: 56254 bytes, md5: aa938e3fec5334819d01b6536c47ba2e */
+						url('./Present.eot') format('eot'),		/* Filesize: 56254 bytes, md5: abe482e6424f51c6b3e11f9e84778aba */
+						url('./Present.ik') format('ik'),		/* Filesize: 56254 bytes, md5: 04aec2c0263e2c7df69e5dffb1636973 */
+						url('./Present.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./Present.woff') format('woff'),		/* Filesize: 19668 bytes, md5: f91518bc67b66aa5f5aa4ee84034da0f */
+						url('./Present.ttf') format('ttf'),		/* Filesize: 35020 bytes, md5: b0767d2e16864b9422cf9513642024d6 */
+						url('./Present.t42') format('t42'),		/* Filesize: 78909 bytes, md5: a04c3f9337d40e2df6ea2a4f40cda92f */
+						url('./Present.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./Present.gsf') format('gsf'),		/* Filesize: 56254 bytes, md5: 142a63cdc5cd25888d9a477d4c71be64 */
+						url('./Present.mf') format('mf'),		/* Filesize: 56254 bytes, md5: 6767d57b578a40364ec30ab29f89ffdc */
+						url('./Present.sfd') format('sfd');		/* Filesize: 56254 bytes, md5: af8c4be2430bb4532b178da06b0dbc89 */
+}

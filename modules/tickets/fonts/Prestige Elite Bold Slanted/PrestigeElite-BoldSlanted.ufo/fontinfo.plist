@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Prestige Elite</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>copyright</key>
+	<string>Copyright (c) 1987 Adobe Systems Incorporated.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>414</integer>
+	<key>capHeight</key>
+	<integer>600</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>-12</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2017/00/19 13:07:04</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 001.001</string>
+	<key>postscriptFontName</key>
+	<string>prestigeeliteboldslanted</string>
+	<key>postscriptFullName</key>
+	<string>Prestige Elite Bold Slanted</string>
+	<key>postscriptWeightName</key>
+	<string>Bold</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>36</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-72</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-12</integer>
+		<integer>0</integer>
+		<integer>414</integer>
+		<integer>426</integer>
+		<integer>600</integer>
+		<integer>612</integer>
+		<integer>644</integer>
+		<integer>656</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>56</integer>
+		<integer>72</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>66</integer>
+		<integer>72</integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptForceBold</key>
+	<true/>
+    </dict>
+</plist>

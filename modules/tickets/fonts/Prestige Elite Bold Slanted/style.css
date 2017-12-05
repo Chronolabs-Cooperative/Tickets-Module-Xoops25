@@ -1,0 +1,115 @@
+/** Prestige Elite Bold Slanted */
+@font-face {
+	font-family:		'Prestige Elite Bold Slanted';
+	src:				url('./PrestigeElite-BoldSlanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-BoldSlanted.ik') format('ik'),		/* Filesize: 55193 bytes, md5: a809b465d2c31e5efd01e8e777128efb */
+						url('./PrestigeElite-BoldSlanted.pf3') format('pf3'),		/* Filesize: 55193 bytes, md5: 4be47ec8620d03affb392230c6b93963 */
+						url('./PrestigeElite-BoldSlanted.gai') format('gai'),		/* Filesize: 55193 bytes, md5: a631ed8f1ae03a974ef5c2f9321e7668 */
+						url('./PrestigeElite-BoldSlanted.ttf') format('ttf'),		/* Filesize: 40764 bytes, md5: 2e2cd9e36c1750ffe4d9a0c57cdce89e */
+						url('./PrestigeElite-BoldSlanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-BoldSlanted.t42') format('t42'),		/* Filesize: 88804 bytes, md5: 6219335ec254daadae7141a31d86dd0d */
+						url('./PrestigeElite-BoldSlanted.dfont') format('dfont'),		/* Filesize: 41796 bytes, md5: 9fca2385946495df14f78ffec9ff8c9d */
+						url('./PrestigeElite-BoldSlanted.hqx') format('hqx'),		/* Filesize: 55193 bytes, md5: 3b181ee405fe2922d5ab5a0b15da7761 */
+						url('./PrestigeElite-BoldSlanted.cef') format('cef'),		/* Filesize: 55193 bytes, md5: cdbf75d10a6fc9b8aeee9ece671d18cf */
+						url('./PrestigeElite-BoldSlanted.otf') format('otf'),		/* Filesize: 32288 bytes, md5: 146588e8b57e13738c58cbc408576ca1 */
+						url('./PrestigeElite-BoldSlanted.gsf') format('gsf'),		/* Filesize: 55193 bytes, md5: 0df475fb21dc9761db3bda01ae261a45 */
+						url('./PrestigeElite-BoldSlanted.cff') format('cff'),		/* Filesize: 29253 bytes, md5: fbf4bb88a4959f6fdebddb89912199e9 */
+						url('./PrestigeElite-BoldSlanted.mf') format('mf'),		/* Filesize: 55193 bytes, md5: 7197f165bdadbe4b4af3f11ef6d34be9 */
+						url('./PrestigeElite-BoldSlanted.svg') format('svg'),		/* Filesize: 94707 bytes, md5: d4db961c21db701d0575923014afa8bb */
+						url('./PrestigeElite-BoldSlanted.woff') format('woff'),		/* Filesize: 23048 bytes, md5: b1b86f1a64a9c925a5f8971621f9c624 */
+						url('./PrestigeElite-BoldSlanted.pfa') format('pfa'),		/* Filesize: 106772 bytes, md5: b5eae31144de4c804643d8cb078603e3 */
+						url('./PrestigeElite-BoldSlanted.pcf') format('pcf'),		/* Filesize: 55193 bytes, md5: dbba4aa3985e50df7a264d5eb26773bd */
+						url('./PrestigeElite-BoldSlanted.bin') format('bin'),		/* Filesize: 56192 bytes, md5: a9ca856fb8592abeaa3dd19e1efc85cf */
+						url('./PrestigeElite-BoldSlanted.pt3') format('pt3'),		/* Filesize: 188123 bytes, md5: c4a1de422b5c39c45fa22983c57239f5 */
+						url('./PrestigeElite-BoldSlanted.eot') format('eot'),		/* Filesize: 55193 bytes, md5: c0a3b616f81f9ef08f227959c8fa04c7 */
+						url('./PrestigeElite-BoldSlanted.pmf') format('pmf'),		/* Filesize: 55193 bytes, md5: d6e941ce3bcba30e38eb4f4bde0630c1 */
+						url('./PrestigeElite-BoldSlanted.sfd') format('sfd'),		/* Filesize: 55193 bytes, md5: 67913c88b0927034e806246b7cc70758 */
+						url('./PrestigeElite-BoldSlanted.pfb') format('pfb');		/* Filesize: 55193 bytes, md5: 9648cab2106a78f48afe965a853ef448 */
+}
+
+/** Prestige Elite Bold Slanted */
+@font-face {
+	font-family:		'prestige-elite-bold-slanted';
+	src:				url('./PrestigeElite-BoldSlanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-BoldSlanted.ik') format('ik'),		/* Filesize: 55193 bytes, md5: a809b465d2c31e5efd01e8e777128efb */
+						url('./PrestigeElite-BoldSlanted.pf3') format('pf3'),		/* Filesize: 55193 bytes, md5: 4be47ec8620d03affb392230c6b93963 */
+						url('./PrestigeElite-BoldSlanted.gai') format('gai'),		/* Filesize: 55193 bytes, md5: a631ed8f1ae03a974ef5c2f9321e7668 */
+						url('./PrestigeElite-BoldSlanted.ttf') format('ttf'),		/* Filesize: 40764 bytes, md5: 2e2cd9e36c1750ffe4d9a0c57cdce89e */
+						url('./PrestigeElite-BoldSlanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-BoldSlanted.t42') format('t42'),		/* Filesize: 88804 bytes, md5: 6219335ec254daadae7141a31d86dd0d */
+						url('./PrestigeElite-BoldSlanted.dfont') format('dfont'),		/* Filesize: 41796 bytes, md5: 9fca2385946495df14f78ffec9ff8c9d */
+						url('./PrestigeElite-BoldSlanted.hqx') format('hqx'),		/* Filesize: 55193 bytes, md5: 3b181ee405fe2922d5ab5a0b15da7761 */
+						url('./PrestigeElite-BoldSlanted.cef') format('cef'),		/* Filesize: 55193 bytes, md5: cdbf75d10a6fc9b8aeee9ece671d18cf */
+						url('./PrestigeElite-BoldSlanted.otf') format('otf'),		/* Filesize: 32288 bytes, md5: 146588e8b57e13738c58cbc408576ca1 */
+						url('./PrestigeElite-BoldSlanted.gsf') format('gsf'),		/* Filesize: 55193 bytes, md5: 0df475fb21dc9761db3bda01ae261a45 */
+						url('./PrestigeElite-BoldSlanted.cff') format('cff'),		/* Filesize: 29253 bytes, md5: fbf4bb88a4959f6fdebddb89912199e9 */
+						url('./PrestigeElite-BoldSlanted.mf') format('mf'),		/* Filesize: 55193 bytes, md5: 7197f165bdadbe4b4af3f11ef6d34be9 */
+						url('./PrestigeElite-BoldSlanted.svg') format('svg'),		/* Filesize: 94707 bytes, md5: d4db961c21db701d0575923014afa8bb */
+						url('./PrestigeElite-BoldSlanted.woff') format('woff'),		/* Filesize: 23048 bytes, md5: b1b86f1a64a9c925a5f8971621f9c624 */
+						url('./PrestigeElite-BoldSlanted.pfa') format('pfa'),		/* Filesize: 106772 bytes, md5: b5eae31144de4c804643d8cb078603e3 */
+						url('./PrestigeElite-BoldSlanted.pcf') format('pcf'),		/* Filesize: 55193 bytes, md5: dbba4aa3985e50df7a264d5eb26773bd */
+						url('./PrestigeElite-BoldSlanted.bin') format('bin'),		/* Filesize: 56192 bytes, md5: a9ca856fb8592abeaa3dd19e1efc85cf */
+						url('./PrestigeElite-BoldSlanted.pt3') format('pt3'),		/* Filesize: 188123 bytes, md5: c4a1de422b5c39c45fa22983c57239f5 */
+						url('./PrestigeElite-BoldSlanted.eot') format('eot'),		/* Filesize: 55193 bytes, md5: c0a3b616f81f9ef08f227959c8fa04c7 */
+						url('./PrestigeElite-BoldSlanted.pmf') format('pmf'),		/* Filesize: 55193 bytes, md5: d6e941ce3bcba30e38eb4f4bde0630c1 */
+						url('./PrestigeElite-BoldSlanted.sfd') format('sfd'),		/* Filesize: 55193 bytes, md5: 67913c88b0927034e806246b7cc70758 */
+						url('./PrestigeElite-BoldSlanted.pfb') format('pfb');		/* Filesize: 55193 bytes, md5: 9648cab2106a78f48afe965a853ef448 */
+}
+
+/** Prestige Elite Bold Slanted */
+@font-face {
+	font-family:		'0qGGSASAuai';
+	src:				url('./PrestigeElite-BoldSlanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-BoldSlanted.ik') format('ik'),		/* Filesize: 55193 bytes, md5: a809b465d2c31e5efd01e8e777128efb */
+						url('./PrestigeElite-BoldSlanted.pf3') format('pf3'),		/* Filesize: 55193 bytes, md5: 4be47ec8620d03affb392230c6b93963 */
+						url('./PrestigeElite-BoldSlanted.gai') format('gai'),		/* Filesize: 55193 bytes, md5: a631ed8f1ae03a974ef5c2f9321e7668 */
+						url('./PrestigeElite-BoldSlanted.ttf') format('ttf'),		/* Filesize: 40764 bytes, md5: 2e2cd9e36c1750ffe4d9a0c57cdce89e */
+						url('./PrestigeElite-BoldSlanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-BoldSlanted.t42') format('t42'),		/* Filesize: 88804 bytes, md5: 6219335ec254daadae7141a31d86dd0d */
+						url('./PrestigeElite-BoldSlanted.dfont') format('dfont'),		/* Filesize: 41796 bytes, md5: 9fca2385946495df14f78ffec9ff8c9d */
+						url('./PrestigeElite-BoldSlanted.hqx') format('hqx'),		/* Filesize: 55193 bytes, md5: 3b181ee405fe2922d5ab5a0b15da7761 */
+						url('./PrestigeElite-BoldSlanted.cef') format('cef'),		/* Filesize: 55193 bytes, md5: cdbf75d10a6fc9b8aeee9ece671d18cf */
+						url('./PrestigeElite-BoldSlanted.otf') format('otf'),		/* Filesize: 32288 bytes, md5: 146588e8b57e13738c58cbc408576ca1 */
+						url('./PrestigeElite-BoldSlanted.gsf') format('gsf'),		/* Filesize: 55193 bytes, md5: 0df475fb21dc9761db3bda01ae261a45 */
+						url('./PrestigeElite-BoldSlanted.cff') format('cff'),		/* Filesize: 29253 bytes, md5: fbf4bb88a4959f6fdebddb89912199e9 */
+						url('./PrestigeElite-BoldSlanted.mf') format('mf'),		/* Filesize: 55193 bytes, md5: 7197f165bdadbe4b4af3f11ef6d34be9 */
+						url('./PrestigeElite-BoldSlanted.svg') format('svg'),		/* Filesize: 94707 bytes, md5: d4db961c21db701d0575923014afa8bb */
+						url('./PrestigeElite-BoldSlanted.woff') format('woff'),		/* Filesize: 23048 bytes, md5: b1b86f1a64a9c925a5f8971621f9c624 */
+						url('./PrestigeElite-BoldSlanted.pfa') format('pfa'),		/* Filesize: 106772 bytes, md5: b5eae31144de4c804643d8cb078603e3 */
+						url('./PrestigeElite-BoldSlanted.pcf') format('pcf'),		/* Filesize: 55193 bytes, md5: dbba4aa3985e50df7a264d5eb26773bd */
+						url('./PrestigeElite-BoldSlanted.bin') format('bin'),		/* Filesize: 56192 bytes, md5: a9ca856fb8592abeaa3dd19e1efc85cf */
+						url('./PrestigeElite-BoldSlanted.pt3') format('pt3'),		/* Filesize: 188123 bytes, md5: c4a1de422b5c39c45fa22983c57239f5 */
+						url('./PrestigeElite-BoldSlanted.eot') format('eot'),		/* Filesize: 55193 bytes, md5: c0a3b616f81f9ef08f227959c8fa04c7 */
+						url('./PrestigeElite-BoldSlanted.pmf') format('pmf'),		/* Filesize: 55193 bytes, md5: d6e941ce3bcba30e38eb4f4bde0630c1 */
+						url('./PrestigeElite-BoldSlanted.sfd') format('sfd'),		/* Filesize: 55193 bytes, md5: 67913c88b0927034e806246b7cc70758 */
+						url('./PrestigeElite-BoldSlanted.pfb') format('pfb');		/* Filesize: 55193 bytes, md5: 9648cab2106a78f48afe965a853ef448 */
+}
+
+/** Prestige Elite Bold Slanted */
+@font-face {
+	font-family:		'qeW3uOKA';
+	src:				url('./PrestigeElite-BoldSlanted.ufo') format('ufo'),		/* Filesize: 4096 bytes, md5: d41d8cd98f00b204e9800998ecf8427e */
+						url('./PrestigeElite-BoldSlanted.ik') format('ik'),		/* Filesize: 55193 bytes, md5: a809b465d2c31e5efd01e8e777128efb */
+						url('./PrestigeElite-BoldSlanted.pf3') format('pf3'),		/* Filesize: 55193 bytes, md5: 4be47ec8620d03affb392230c6b93963 */
+						url('./PrestigeElite-BoldSlanted.gai') format('gai'),		/* Filesize: 55193 bytes, md5: a631ed8f1ae03a974ef5c2f9321e7668 */
+						url('./PrestigeElite-BoldSlanted.ttf') format('ttf'),		/* Filesize: 40764 bytes, md5: 2e2cd9e36c1750ffe4d9a0c57cdce89e */
+						url('./PrestigeElite-BoldSlanted.fon') format('fon'),		/* Filesize: 288 bytes, md5: d28c94d5362058b68c80214a3105375b */
+						url('./PrestigeElite-BoldSlanted.t42') format('t42'),		/* Filesize: 88804 bytes, md5: 6219335ec254daadae7141a31d86dd0d */
+						url('./PrestigeElite-BoldSlanted.dfont') format('dfont'),		/* Filesize: 41796 bytes, md5: 9fca2385946495df14f78ffec9ff8c9d */
+						url('./PrestigeElite-BoldSlanted.hqx') format('hqx'),		/* Filesize: 55193 bytes, md5: 3b181ee405fe2922d5ab5a0b15da7761 */
+						url('./PrestigeElite-BoldSlanted.cef') format('cef'),		/* Filesize: 55193 bytes, md5: cdbf75d10a6fc9b8aeee9ece671d18cf */
+						url('./PrestigeElite-BoldSlanted.otf') format('otf'),		/* Filesize: 32288 bytes, md5: 146588e8b57e13738c58cbc408576ca1 */
+						url('./PrestigeElite-BoldSlanted.gsf') format('gsf'),		/* Filesize: 55193 bytes, md5: 0df475fb21dc9761db3bda01ae261a45 */
+						url('./PrestigeElite-BoldSlanted.cff') format('cff'),		/* Filesize: 29253 bytes, md5: fbf4bb88a4959f6fdebddb89912199e9 */
+						url('./PrestigeElite-BoldSlanted.mf') format('mf'),		/* Filesize: 55193 bytes, md5: 7197f165bdadbe4b4af3f11ef6d34be9 */
+						url('./PrestigeElite-BoldSlanted.svg') format('svg'),		/* Filesize: 94707 bytes, md5: d4db961c21db701d0575923014afa8bb */
+						url('./PrestigeElite-BoldSlanted.woff') format('woff'),		/* Filesize: 23048 bytes, md5: b1b86f1a64a9c925a5f8971621f9c624 */
+						url('./PrestigeElite-BoldSlanted.pfa') format('pfa'),		/* Filesize: 106772 bytes, md5: b5eae31144de4c804643d8cb078603e3 */
+						url('./PrestigeElite-BoldSlanted.pcf') format('pcf'),		/* Filesize: 55193 bytes, md5: dbba4aa3985e50df7a264d5eb26773bd */
+						url('./PrestigeElite-BoldSlanted.bin') format('bin'),		/* Filesize: 56192 bytes, md5: a9ca856fb8592abeaa3dd19e1efc85cf */
+						url('./PrestigeElite-BoldSlanted.pt3') format('pt3'),		/* Filesize: 188123 bytes, md5: c4a1de422b5c39c45fa22983c57239f5 */
+						url('./PrestigeElite-BoldSlanted.eot') format('eot'),		/* Filesize: 55193 bytes, md5: c0a3b616f81f9ef08f227959c8fa04c7 */
+						url('./PrestigeElite-BoldSlanted.pmf') format('pmf'),		/* Filesize: 55193 bytes, md5: d6e941ce3bcba30e38eb4f4bde0630c1 */
+						url('./PrestigeElite-BoldSlanted.sfd') format('sfd'),		/* Filesize: 55193 bytes, md5: 67913c88b0927034e806246b7cc70758 */
+						url('./PrestigeElite-BoldSlanted.pfb') format('pfb');		/* Filesize: 55193 bytes, md5: 9648cab2106a78f48afe965a853ef448 */
+}

@@ -1,0 +1,142 @@
+
+--[ Release Information ]------------------------------------------------------------
+
+hhhhhhhhhhhhhhhhhhhhhhhh-                                  -hhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhh-                                  -hhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhys.           `..------..`           .syhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhy+-`     `.:/ooyhhhhhhhhhhhhhhyoo/:.`     `-+yhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhh:    `-+shhhhhhhhhhhhhhhhhhhhhhhhhhhhs+-`    :hhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhs:/shhhhy+yhhhhhhyyyyyyyyyyhhhhhhy+yhhhhs/:shhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhs `/+/..`         ``.-/+/` shhhhhhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhhhhyo:    `.:+osyyyyyyso+:.`    :oyhhhhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhhhhhy+-  `-+ydmmmmmmmmmmmmmmmmmmdy+-`  -+yhhhhhhhhhhhhhhhhhhhhhhh
+hhhhhhhy/shhhhhhhhhhhs:` `:sdmmmmmmmmmmmmmmmmmmmmmmmmmmds:` `:shhhhhhhhhhhs/yhhhhhhh
+hhhhhhs.  -yhhhhhhhs-  .odmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdo.  -shhhhhhhy-  .shhhhhh
+hhhhhs`   -hhhhhhh:  .smmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmms.  :hhhhhhh-   `shhhhh
+````.    :hhhhhhs` `ommmmmmmmmmdhyhmmmmmdhyhmmmmmhyhdmmmmmmmmmmo` `shhhhhh:    .````
+        :hddddh+  .hmmmmmmmmmo.``.``-s+. `. `/y/` .` .+dmmmmmmmmh.  +hhhhdh:        
+       -hdh+//:  -dmmmmmmmmh. :ymmds`  /hmmd+`  odmmh/ `ymmmmmmmmd-  ://+hdh-       
+      `ydddh+`  -dmmmmmmmmd. +mmmmmy`  /mmmms   ommmmms``hmmmmmmmmd-  `+hdddy`      
+      /dddddh` `hmmmmmmmmm+ .mmmmmm/ -  hmmd` - .dmmmmm: -mmmmmmmmmh` `hddddd/      
+     `yddddd/  +mmmmmmmmmm- /mmmmmd. o` smmh `y` ymmmmms .mmmmmmmmmm+  /dddddy`     
+     -dddddh. `dmmmmmmmmmm: :mmmmmm- +` smmh `o` hmmmmmo .mmmmmmmmmmd` .hddddh-     
+     +dddddy  :mmmmmmmmmmms .mmmmmm/ `  hmmd. ` -mmmmmm- :mmmmmmmmmmm:  yddddd+     
+     oddddds  /mmmmmmmmmmmd. +mmmmmy`  +mmmms   ommmmmy``hmmmmmmmmmmm/  sdddddo     
+     oddddds  /mmmmmmmmmmmmy` ommmmm- `ymmmmd` `hmmmmh. +mmmmmmmmmmmm/  sdddddo     
+     +dddddy  :mmmmmdo:ymmmmy` /dmh- . `omms. . .smdo` +mmmd//hmmmmmm:  yddddd+     
+     -dddddh. `hmmdo` -ydddddh: `-  +dy. `. `odo` .` -yddddh/  /hmmmd` .hddddd-     
+     `yddddd/  +md:            ``-.`   ``--``   ``-.`           `dmm+  /dddddy`     
+      /dddddh` `hmd+` -yhhhhhhdmmmmmdhddmmmmmdhdmmmmmdhhhhhh/  /hmmh` `hddddd/      
+      `ydddh+`  .dmmdo/smmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh//hmmmd.  `+hdddy`      
+       -ddh+//:  -hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh-  ://+hdd-       
+        :ddddddo  .ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmy.  odddddd:        
+.....    /ddddddy` `+dmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd+  `ydddddd/    .....
+dddddy`   :hdddddd/  .odmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdo.  /ddddddh:   `yddddd
+ddddddy.  :hdddddddy:  .+hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh+.  :ydddddddh:  .ydddddd
+dddddddh+ydddddddddddy/`  -ohdddmmmmmmmmmmmmmmmmmmdmdddho-  `/ydddddddddddy+hddddddd
+mdddddmmmmmmmmmmmmmmmmddo-   ./oyddddddddddddddddddyo/.   -odmmmmmmmmmmmmmddmddmmmmd
+mmmmmmmmmmmmmmmmmmmmmmmmmmds:    ``-//+osssso+//-``    :sdmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmh `+o/-.``        ``.-/o+` hmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmmy/+ydmmmdodmmmmmdddhhhhhhdddmmmmmdodmmmdy+/ymmmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmd:    `:oydmmmmmmmmmmmmmmmmmmmmmmmmmmdyo:`    :dmmmmmmmmmmmmmmmmmm
+mmmmmmmmmmmmmmmmmmmds:`     `.:+syhdmmmmmmmmmmmmdhys+:.`     `:sdmmmmmmmmmmmmm au mm
+mmmmmmmmmmmmmmmmmmmmmmdh.           `.-::::::-.`           .hdmmmmmmmmmmmmmm 2016 mm
+mmmmmmmmmmmmmmmmmmmmmmmm:                                  :mmmmmmmmmmm wishcraft mm
+mmmmmmmmmmmmmmmmmmmmmmmm:                                  :mmmmmmmmmmmmmmmmmmmmmmmm
+
+Chronolabs Cooperative Presents a Release for XOOPS 2.5; this is an email ticketer
+it will access an imap or pop3 source and scan the folders with either all of them
+or just a select few if your filtering emails and then ticket the inbound, add the
+email to the database, even collect a phone number while they wait for a response.
+
+It has multiple department management and distiniction between managers as well as
+staff, individualising the groups in XOOPS down to these levels; including a suite
+of reports that can be as all open source is a framework especially xoops extend
+this piece of code easily to intergrate XPayment Billing & Invoicing for example
+or other such features, with built in escalation to development and research areas
+via MantisBT (Bug Tracker) via it's api for a third and second levels or where you
+place this form of departmental escalation.
+
+--[ Release Versioning ]------------------------------------------------------------
+
+Licence: GPL3 + ACADEMIC
+Frameworks: XOOPS 2.5.8, php7.0, mysql 5.x, ubuntu/debian, wammy api 3.x
+Type: XOOPS Module
+Title: Email Ticketer Please!
+Description: Is for email ticketing and harvesting for departmental escalation and sorting based in keywords, include spam detection!
+Version: 1.05
+Upgradable:
+Status: Beta
+Commissioned: 1970-02-02 00:22:22 +1000
+Public: 1970-02-02 00:22:22 +1000
+
+--[ Release Author Data ]------------------------------------------------------------
+
+Name: Simon Antony Roberts
+eMail: simon@staff.labs.coop
+Skype: antony.cipher
+Time-zone: Australia/Sydney
+Location: Marrickville South, NSW, Australia
+Aliases: wishcraft, mynamesnot
+Blog: http://internetfounder.wordpress.com
+Twitter: https://twitter.com/Cipherhouse
+Facebook: https://facebook.com/mynamesnot
+Google+: https://plus.google.com/u/0/105256588269767640343
+Group Profile: http://labs.coop/naut/au/syd/1
+XOOPS Profile: http://xoops.org/modules/profile/userinfo.php?uid=62352
+Sourceforge Profile: https://sourceforge.net/users/wishcraft/profile
+GitHub Profile: http://github.com/Cipherhouse
+
+--[ Release Group Data ]----------------------------------------------------------
+
+Icon: https://labs.partnerconsole.net/execute2/external/reseller-logo
+Avatar: https://labs.partnerconsole.net/execute2/external/reseller-logo
+Name: Chronolabs Cooperative
+eMail: errors@labs.coop
+Time-zone: Australia/Sydney
+Location: Marrickville South, NSW, Australia
+Registration: http://www.abr.business.gov.au/SearchByAbn.aspx?abn=41460248629
+Blog: http://internetfounder.wordpress.com
+Twitter: https://twitter.com/ChronolabsCoop
+Facebook: https://facebook.com/Chronolabs
+Google+: 
+Profile: http://au.syd.labs.coop
+Sourceforge Profile: https://sourceforge.net/projects/chronolabs
+GitHub Profile: http://github.com/Chronolabs-Cooperative
+
+--[ Translation Author ]------------------------------------------------------------
+
+Language: English
+CharSet: UTF8
+LangCode: EN
+Name: Simon Antony Roberts
+eMail: simon@staff.labs.coop
+Skype: antony.cipher
+Time-zone: Australia/Sydney
+Location: Marrickville South, NSW, Australia
+Aliases: wishcraft, mynamesnot
+Blog: http://internetfounder.wordpress.com
+Twitter: https://twitter.com/Cipherhouse
+Facebook: https://facebook.com/mynamesnot
+Google+: https://plus.google.com/u/0/105256588269767640343
+Group Profile: http://labs.coop/naut/au/syd/1
+XOOPS Profile: http://xoops.org/modules/profile/userinfo.php?uid=62352
+Sourceforge Profile: https://sourceforge.net/users/wishcraft/profile
+GitHub Profile: http://github.com/Cipherhouse
+
+--[ Release Resources ]------------------------------------------------------------
+
+File ZIP:
+File RAR:
+File 7Z:
+File TAR.GZ:
+Git Pull:
+
+--[ Project Data ]----------------------------------------------------------------
+
+Repository XOOPS: https://svn.code.sf.net/p/xoops/svn/XoopsModules/please
+Repository SVN:
+Repository GIT: 
+Icon: 
+Avatar: 
+Banner:
